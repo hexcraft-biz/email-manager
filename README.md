@@ -7,7 +7,7 @@ Current database schema version: 1.0
 >	- Request Payload Body:
 >	```json
 >	{
->		"addr": "service-01@newmedia.pts.org.tw",
+>		"addr": "no-reply@service.example.com",
 >		"password": "xxooxxoo"
 >	}
 >	```
